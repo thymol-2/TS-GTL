@@ -7,6 +7,6 @@ Drug absorption significantly influences pharmacokinetics. Accurately predicting
 
 
 # Usage method
-Running File 1 can train the model
-Running File 2 can achieve transfer learning
-Running File 3 can calculate the similarity between tasks
+1. Running File 1 can train the model
+2. Running File 2 can achieve transfer learning
+3. Running File 3 can calculate the similarity between tasks
